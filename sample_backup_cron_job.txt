@@ -1,0 +1,1 @@
+00    */3       *       *       *        /etc/my-scripts/duplicity-backup-script.sh

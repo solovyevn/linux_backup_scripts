@@ -1,0 +1,7 @@
+#"main-data" backup
+#www, vmail, dbs/backup
++ /var/dbs/backup
+- /var/dbs**
++ /var/vmail
++ /var/www
+- **

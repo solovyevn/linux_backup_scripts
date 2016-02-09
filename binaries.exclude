@@ -1,0 +1,10 @@
+#"binaries" backup
+#usr/etc, usr/local, opt, srv, var/log
++ /opt
++ /srv
++ /var/log
+- /var**
++ /usr/etc
++ /usr/local
+- /usr**
+- **
